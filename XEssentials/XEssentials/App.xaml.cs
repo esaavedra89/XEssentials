@@ -10,7 +10,7 @@ namespace XEssentials
         {
             InitializeComponent();
 
-            MainPage = new Topicos.FilePicker.FilePicker();
+            MainPage = new Topicos.Detect_Shake.MainPage();
         }
 
         protected override void OnStart()
